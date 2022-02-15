@@ -1,4 +1,4 @@
-## Olá, eu sou Juan Vitor, tenho foco em desenvolvimento full-stack e design um hobbie
+## Desenvolvedor por paixão e artista por amor, as duas áreas me atraem porém minha profissão é de desenvolvedor full-stack
 
 <div align="center">
   <a href="https://github.com/bleckcat">
