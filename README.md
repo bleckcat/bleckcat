@@ -1,4 +1,4 @@
-## Desenvolvedor por paixão e artista por amor, as duas áreas me atraem porém minha profissão é de desenvolvedor full-stack
+## Developer for passion and artist for love, both areas attract me but my profession is full-stack developer
 
 <div align="center">
   <a href="https://github.com/bleckcat">
