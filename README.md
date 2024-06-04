@@ -3,7 +3,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/juan-vitor-dev-senior/)
 
-## Languages and Tools:
+## Here is what I know about me and development 👇
 ### Of course I know the basics 😁
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,git&perline=4)
 
@@ -16,5 +16,5 @@
 ### and the ones that I'm learning and liking 🤓
 [![My Skills](https://skillicons.dev/icons?i=threejs,mongo,godot,lua,unity,cs,azure,graphql&perline=8)](https://skillicons.dev)
 
-### There is always some things that you don't like that much, but still know how to use, here is mine's 😑
+### Of course there is always some things that you don't like that much, but still know how to use, here is mine's 😑
 [![My Skills](https://skillicons.dev/icons?i=redux,bootstrap,figma,cypress,flutter&perline=5)](https://skillicons.dev)
