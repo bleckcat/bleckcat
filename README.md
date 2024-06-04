@@ -1,33 +1,21 @@
 
-# Hi 👋, I'm Juan V. G. Taques  - [![Linkedin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg =30x)](https://www.linkedin.com/in/juan-vitor-dev-senior/)
+# Hi 👋, I'm Juan V. G. Taques
 
-### A center code hereurious developer
-- ⚡ Fun fact **I like to make games too**
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/juan-vitor-dev-senior/)
 
 ## Languages and Tools:
-### What I love to work with:
 
-[![Linkedin](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg =40x)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Linkedin](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg =40x)](https://www.typescriptlang.org/)
-[![Linkedin](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg =40x)](https://redux.js.org)
-[![Linkedin](https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg =40x)](https://www.ruby-lang.org/en/)
+### Of course I know the basics:
+![My Skills](https://skillicons.dev/icons?i=js,html,css,git&perline=6)
 
-### Frontend development:
-[![Linkedin](https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg =40x)](https://www.cypress.io)
-[![Linkedin](https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg =40x)](https://jestjs.io)
-[![Linkedin](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg =40x)](https://redux.js.org)
-[![Linkedin](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg =40x)](https://tailwindcss.com/)
-[![Linkedin](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg =40x)](https://www.w3.org/html/)
-[![Linkedin](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg =40x)](https://www.w3schools.com/css/)
-[![Linkedin](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg =40x)](https://sass-lang.com)
-### What is whatever:
-[![Linkedin](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg =40x)](https://nodejs.org)
-[![Linkedin](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg =40x)](https://expressjs.com)
+### And there's the things that I'm really good at, the best working with:
+[![My Skills](https://skillicons.dev/icons?i=ts,react,express,next,sass,tailwind,github,styledcomponents&perline=8)](https://skillicons.dev)
 
-[![Linkedin](https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg =40x)](https://graphql.org)
-[![Linkedin](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg =40x)](https://www.mongodb.com/)
+### Things that I know how to use:
+[![My Skills](https://skillicons.dev/icons?i=gitlab,py,nodejs,mysql,java,docker,ruby,rails,angular,aws,php,jest,jquery,md,webpack,babel,xd,materialui&perline=9)](https://skillicons.dev)
 
-[![Linkedin](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg =40x)](https://www.mysql.com/)
-[![Linkedin](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg =40x)](https://www.docker.com/)
-[![Linkedin](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg =40x)](https://git-scm.com/)
-[![Linkedin](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg =40x)](https://www.linux.org/)
+### and the ones learning and liking:
+[![My Skills](https://skillicons.dev/icons?i=threejs,mongo,godot,lua,unity,cs,azure,graphql&perline=8)](https://skillicons.dev)
+
+### There is always some things that you don't like that much, but still know how to use, here is mine's:
+[![My Skills](https://skillicons.dev/icons?i=redux,bootstrap,figma,cypress,flutter&perline=8)](https://skillicons.dev)
