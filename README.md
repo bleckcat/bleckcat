@@ -2,8 +2,6 @@
   <img height="300" src="./giphy.gif" alt="GIF" />
 </div>
 
-![hippo](giphy.gif)
-
 ###
 
 <p align="left">Main Frames, languages, super sets and libs</p>
